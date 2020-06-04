@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "wNJMMw2zFvtexS6+gf/wTBPqb4w0YBG4s5s2Ja7bdEfIKyVeo10cwbiaTwhS/oHUg8THuOuuDX7FrNE5D5CG0Q==",
+  "success": true,
+  "projectFilePath": "/Users/celer/Projects/LambdaDebugging/src/LambdaDebugging/LambdaDebugging.csproj",
+  "expectedPackageFiles": [
+    "/Users/celer/.nuget/packages/amazon.lambda.apigatewayevents/2.1.0/amazon.lambda.apigatewayevents.2.1.0.nupkg.sha512",
+    "/Users/celer/.nuget/packages/amazon.lambda.applicationloadbalancerevents/2.0.0/amazon.lambda.applicationloadbalancerevents.2.0.0.nupkg.sha512",
+    "/Users/celer/.nuget/packages/amazon.lambda.aspnetcoreserver/5.1.1/amazon.lambda.aspnetcoreserver.5.1.1.nupkg.sha512",
+    "/Users/celer/.nuget/packages/amazon.lambda.core/1.1.0/amazon.lambda.core.1.1.0.nupkg.sha512",
+    "/Users/celer/.nuget/packages/amazon.lambda.logging.aspnetcore/3.0.0/amazon.lambda.logging.aspnetcore.3.0.0.nupkg.sha512",
+    "/Users/celer/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.0.1/amazon.lambda.serialization.systemtextjson.2.0.1.nupkg.sha512",
+    "/Users/celer/.nuget/packages/awssdk.core/3.3.106.16/awssdk.core.3.3.106.16.nupkg.sha512",
+    "/Users/celer/.nuget/packages/awssdk.extensions.netcore.setup/3.3.100.1/awssdk.extensions.netcore.setup.3.3.100.1.nupkg.sha512",
+    "/Users/celer/.nuget/packages/awssdk.s3/3.3.110.62/awssdk.s3.3.3.110.62.nupkg.sha512",
+    "/Users/celer/.nuget/packages/microsoft.extensions.configuration/2.1.0/microsoft.extensions.configuration.2.1.0.nupkg.sha512",
+    "/Users/celer/.nuget/packages/microsoft.extensions.configuration.abstractions/2.1.0/microsoft.extensions.configuration.abstractions.2.1.0.nupkg.sha512",
+    "/Users/celer/.nuget/packages/microsoft.extensions.configuration.binder/2.1.0/microsoft.extensions.configuration.binder.2.1.0.nupkg.sha512",
+    "/Users/celer/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.0/microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "/Users/celer/.nuget/packages/microsoft.extensions.logging/2.1.0/microsoft.extensions.logging.2.1.0.nupkg.sha512",
+    "/Users/celer/.nuget/packages/microsoft.extensions.logging.abstractions/2.1.0/microsoft.extensions.logging.abstractions.2.1.0.nupkg.sha512",
+    "/Users/celer/.nuget/packages/microsoft.extensions.options/2.1.0/microsoft.extensions.options.2.1.0.nupkg.sha512",
+    "/Users/celer/.nuget/packages/microsoft.extensions.primitives/2.1.0/microsoft.extensions.primitives.2.1.0.nupkg.sha512",
+    "/Users/celer/.nuget/packages/system.memory/4.5.0/system.memory.4.5.0.nupkg.sha512",
+    "/Users/celer/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.0/system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

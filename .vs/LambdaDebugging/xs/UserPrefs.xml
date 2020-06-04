@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{A2608495-2AF0-434E-A2F1-BF3CFD13909E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/LambdaDebugging/appsettings.Development.json">
+    <Files>
+      <File FileName="src/LambdaDebugging/appsettings.json" Line="7" Column="19" />
+      <File FileName="src/LambdaDebugging/Properties/launchSettings.json" />
+      <File FileName="src/LambdaDebugging/aws-lambda-tools-defaults.json" Line="7" Column="5" />
+      <File FileName="src/LambdaDebugging/LambdaEntryPoint.cs" />
+      <File FileName="src/LambdaDebugging/LocalEntryPoint.cs" />
+      <File FileName="src/LambdaDebugging/Readme.md" />
+      <File FileName="src/LambdaDebugging/serverless.template" />
+      <File FileName="src/LambdaDebugging/Startup.cs" />
+      <File FileName="test/LambdaDebugging.Tests/appsettings.json" Line="12" Column="25" />
+      <File FileName="src/LambdaDebugging/appsettings.Development.json" Line="3" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LambdaDebugging" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="LambdaDebugging" expanded="True">
+                <Node name="Properties" expanded="True" />
+                <Node name="appsettings.json" expanded="True">
+                  <Node name="appsettings.Development.json" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="test" expanded="True">
+              <Node name="LambdaDebugging.Tests" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.src.LambdaDebugging PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
